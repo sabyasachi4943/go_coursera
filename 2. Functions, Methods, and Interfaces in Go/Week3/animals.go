@@ -24,7 +24,7 @@ func main() {
 	m := map[string]Animal{
 		"cow" : Animal{"grass","walk","moo"},
 		"bird" : Animal{"worms", "fly", "peep"},
-		"snake" : Animal{"mice", "slither", "hass"},
+		"snake" : Animal{"mice", "slither", "hsss"},
 	}
 	for{
 		fmt.Println(">")
